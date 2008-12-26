@@ -7,3 +7,8 @@ sms_activated = 0
 sipgate_user = foo
 sipgate_pass = bar
 cellphone = 4966612345
+
+host1 = google.de
+host2 = heise.de
+
+failcount = 3
